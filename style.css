@@ -59,8 +59,8 @@ body{
   display: none; 
   margin: 25px 20px 35px;
 }
-#messageerror{
-  display: none;
+.messageError{
+  text-align: center;
 }
 .content .word{
   user-select: none;

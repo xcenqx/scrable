@@ -83,9 +83,9 @@ let words = [
         word: "oświadczenie",
         hint: "deklaracja czegoś"
     },
-    {
-        word: "drugi",
-        hint: "Jedna sześćdziesiąta minuty"
+ {
+        word: "minuta",
+        hint: "Jedna sześćdziesiąta godziny"
     },
     {
         word: "biblioteka",

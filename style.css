@@ -59,6 +59,9 @@ body{
   display: none; 
   margin: 25px 20px 35px;
 }
+#messageerror{
+  display: none;
+}
 .content .word{
   user-select: none;
   font-size: 33px;
